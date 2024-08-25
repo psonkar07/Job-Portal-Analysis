@@ -26,6 +26,7 @@ After the data was cleaned, exploratory analysis was conducted to extract insigh
 - **Top Job Roles by Job Openings**: Analyzed the most in-demand job roles based on the number of postings.
 ![Top Job Roles](https://github.com/psonkar07/Job-Portal-Analysis/blob/main/Insights/Top%20Job%20Roles.png)
 - **Top Companies by Job Openings**: Identified companies with the highest number of job listings, highlighting active employers.
+ ![Top Companies](https://github.com/psonkar07/Job-Portal-Analysis/blob/main/Insights/Top%20Companies.png)
 - **Top Locations for Job Openings**: Examined the geographic distribution of job opportunities, revealing key job markets.
 - **Remote vs. Onsite Work in 2024**: Investigated the balance between remote and onsite job opportunities.
 - **Experience Levels in Job Roles**: Categorized jobs based on required experience levels, offering insights into demand for different experience ranges.
