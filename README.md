@@ -6,7 +6,6 @@ The purpose of this project is to conduct a comprehensive data cleaning and expl
 ## Power BI Dashboard
 The Job Market Insights Dashboard provides an overview of job roles, salary transparency, and location-based job distribution. The dashboard was designed to offer a comprehensive view of the job market trends in 2024.
 
-## Jupyter Notebooks
 
 ## Analysis Approach
 
@@ -45,12 +44,12 @@ A comprehensive dashboard was created using Power BI to visualize the key findin
 
 ## Datasets Used
 - `job.csv.zip`: This dataset included detailed information about job listings such as roles, locations, salaries, and required skills.
-- [https://github.com/psonkar07/Job-Portal-Analysis/blob/main/jobs.csv.zip](link to dataset source)
+- [https://github.com/psonkar07/Job-Portal-Analysis/blob/main/jobs.csv.zip] (link to dataset source)
 
 ## Tools and Technologies Used
 - **Python**: For Data Quality Assessment, Data Cleaning, and Exploratory Data Analysis using libraries like pandas, matplotlib, and seaborn.
 - **Power BI**: For creating the Job Market Insights Dashboard to visualize the analysis.
-- **Jupyter Notebooks**: For detailed data cleaning and exploratory analysis.
+- **Google Colab**: For detailed data cleaning and exploratory analysis.
 
 ## Conclusion
 The analysis of the job portal dataset provided valuable insights into the current job market, including trends in job roles, salary transparency, and the demand for specific skills. The findings can help job seekers and employers alike to navigate the job market more effectively, making informed decisions based on data-driven insights.
