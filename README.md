@@ -44,8 +44,8 @@ A comprehensive dashboard was created using Power BI to visualize the key findin
 - **Top Skills for Specific Roles**: Highlights the most in-demand skills for particular job roles.
 
 ## Datasets Used
-- `job_portal_raw.csv`: This dataset included detailed information about job listings such as roles, locations, salaries, and required skills.
-- [Link to actual dataset](link to dataset source)
+- `job.csv.zip`: This dataset included detailed information about job listings such as roles, locations, salaries, and required skills.
+- [https://github.com/psonkar07/Job-Portal-Analysis/blob/main/jobs.csv.zip](link to dataset source)
 
 ## Tools and Technologies Used
 - **Python**: For Data Quality Assessment, Data Cleaning, and Exploratory Data Analysis using libraries like pandas, matplotlib, and seaborn.
