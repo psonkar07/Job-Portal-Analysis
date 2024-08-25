@@ -1,6 +1,5 @@
 # EDA on Job-Portal-Analysis
-![Naukri Logo](https://static.naukimg.com/s/0/0/i/ni-hamburger/naukri_new_logo.svg)
-
+![Naukri Logo](https://www.logoshape.com/wp-content/uploads/2024/03/Naukri-vector-logo.jpg)
 ## Goal of the Project
 The purpose of this project is to conduct a comprehensive data cleaning and exploratory analysis on a job portal dataset. Initially, the focus was on cleaning the dataset and understanding the structure of the data. This project demonstrates the iterative and exploratory nature of data analytics, where initial data preparation is essential for gaining deeper insights. Unlike the common approach where problems and questions are defined beforehand, this project started with a dataset that posed significant challenges, allowing for a hands-on experience in transforming the data. The final objective was to perform a thorough analysis and present the findings through visualizations.
 
