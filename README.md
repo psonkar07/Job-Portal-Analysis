@@ -24,7 +24,7 @@ The first step was to prepare the dataset by assessing its quality and performin
 After the data was cleaned, exploratory analysis was conducted to extract insights and understand the dataset better. The following insights were derived:
 
 - **Top Job Roles by Job Openings**: Analyzed the most in-demand job roles based on the number of postings.
-- https://github.com/psonkar07/Job-Portal-Analysis/blob/main/Insights/Top%20Job%20Roles.png
+![Top Job Roles](https://github.com/psonkar07/Job-Portal-Analysis/blob/main/Insights/Top%20Job%20Roles.png)
 - **Top Companies by Job Openings**: Identified companies with the highest number of job listings, highlighting active employers.
 - **Top Locations for Job Openings**: Examined the geographic distribution of job opportunities, revealing key job markets.
 - **Remote vs. Onsite Work in 2024**: Investigated the balance between remote and onsite job opportunities.
