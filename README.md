@@ -5,7 +5,9 @@
 The purpose of this project is to conduct a comprehensive data cleaning and exploratory analysis on a job portal dataset. Initially, the focus was on cleaning the dataset and understanding the structure of the data. This project demonstrates the iterative and exploratory nature of data analytics, where initial data preparation is essential for gaining deeper insights. Unlike the common approach where problems and questions are defined beforehand, this project started with a dataset that posed significant challenges, allowing for a hands-on experience in transforming the data. The final objective was to perform a thorough analysis and present the findings through visualizations.
 
 ## Power BI Dashboard
-The Job Market Insights Dashboard provides an overview of job roles, salary transparency, and location-based job distribution. The dashboard was designed to offer a comprehensive view of the job market trends in 2024.
+The Job Market Insights Dashboard provides an overview of job roles, salary transparency, and location-based job distribution. The dashboard was designed to offer a comprehensive view of the job market trends in 2024.Here's the company insights dashboard
+![Dashboard](https://github.com/yourusername/yourrepository/blob/main/path/to/your/image.png)
+
 
 
 ## Analysis Approach
@@ -40,10 +42,10 @@ After the data was cleaned, exploratory analysis was conducted to extract insigh
 A comprehensive dashboard was created using Power BI to visualize the key findings from the analysis. The dashboard includes:
 
 - **Top Companies by Job Openings**: Showcases the companies with the highest number of job postings.
-- **Top Job Roles by Salary Disclosure**: Visualizes which job roles are most transparent about salary.
+- **Companies by Average Rating**: Displays the companies with the highest average ratings from employees.
 - **Remote vs. Onsite Work**: Illustrates the proportion of remote versus onsite jobs.
-- **Experience Levels**: Breaks down job roles by the required experience levels.
-- **Top Skills for Specific Roles**: Highlights the most in-demand skills for particular job roles.
+- **Top Locations with Maximum Job Postings**: Highlights the locations with the highest number of job postings.
+
 
 ## Datasets Used
 - `job.csv.zip`: This dataset included detailed information about job listings such as roles, locations, salaries, and required skills.
