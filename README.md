@@ -7,8 +7,7 @@ The purpose of this project is to conduct a comprehensive data cleaning and expl
 ## Power BI Dashboard
 The Job Market Insights Dashboard provides an overview of job roles, salary transparency, and location-based job distribution. The dashboard was designed to offer a comprehensive view of the job market trends in 2024.Here's the company insights dashboard.
 
-![Job Portal Dashboard](https://github.com/psonkar07/Job-Portal-Analysis/raw/main/job%20portal%20dashboard.png)
-
+![Job Portal Dashboard](https://github.com/psonkar07/Job-Portal-Analysis/raw/main/4-Job%20portal%20dashboard.png)
 
 ## Analysis Approach
 
